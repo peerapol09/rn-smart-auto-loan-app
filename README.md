@@ -1,5 +1,5 @@
 # 🚗 Smart Auto Loan App
-> แอปพลิเคชันคำนวณสินเชื่อรถยนต์อัจฉริยะ พัฒนาด้วย React Native
+> แอปพลิเคชันคำนวณสินเชื่อรถยนต์ พัฒนาด้วย React Native
 
 [![Author](https://img.shields.io/badge/Created%20by-Peerapol-blue.svg)](https://github.com/ของคุณ)
 [![Framework](https://img.shields.io/badge/Framework-React%20Native-61DAFB?logo=react)](https://reactnative.dev/)
@@ -23,15 +23,4 @@
   </table>
 </div>
 
----
-
-## 🛠 ข้อมูลโปรเจกต์ (Project Overview)
-
-โปรเจกต์นี้คือ **rn-smart-auto-loan-app** พัฒนาโดย **Peerapol** เพื่อเป็นเครื่องมือช่วยคำนวณค่างวดรถยนต์เบื้องต้น ช่วยให้ผู้ใช้งานตัดสินใจวางแผนทางการเงินได้ง่ายขึ้น
-
-### ✨ คุณสมบัติเด่น
-- **Easy Input:** กรอกราคารถ, เงินดาวน์ และอัตราดอกเบี้ยได้ง่าย
-- **Flexible Options:** เลือกจำนวนปีที่ต้องการผ่อนชำระได้หลากหลาย
-- **Instant Result:** แสดงยอดผ่อนต่อเดือนและสรุปรายละเอียดทันที
-- **Clean UI:** ออกแบบหน้าจอให้มีความทันสมัย อ่านง่าย สบายตา
 
