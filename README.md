@@ -17,7 +17,6 @@
       </td>
       <td align="center" style="border: none;">
         <img width="200" alt="Result Screen" src="https://github.com/user-attachments/assets/6ee1800e-bcce-4b38-bbef-b92d7ee91c94" /><br/>
-
       </td>
     </tr>
   </table>
