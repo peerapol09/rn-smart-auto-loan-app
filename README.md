@@ -13,11 +13,11 @@
     <tr>
       <td align="center" style="border: none;">
         <img width="200" alt="Home Screen" src="https://github.com/user-attachments/assets/eff32652-5188-4ce0-8c67-48bf1581fdf6" /><br/>
-        <b>หน้าคำนวณหลัก</b>
+      
       </td>
       <td align="center" style="border: none;">
         <img width="200" alt="Result Screen" src="https://github.com/user-attachments/assets/6ee1800e-bcce-4b38-bbef-b92d7ee91c94" /><br/>
-        <b>หน้าแสดงผลลัพธ์</b>
+
       </td>
     </tr>
   </table>
